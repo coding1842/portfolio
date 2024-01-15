@@ -21,7 +21,7 @@
       "repoUrl": "https://github.com/coding1842/GreenDining",
       "isTeam": true,
       "period": ["2023. 10", "2023. 12"],
-      "stack": ["사용한 기술을 적어주세요", "JAVA", "JavaScript", "SQL", "CSS", "Jquery", "BootStrap", "Ajax", "Spring Boot", "MyBatis", "Oracle", "NodeJS"]
+      "stack": ["JAVA", "JavaScript", "SQL", "CSS", "Jquery", "BootStrap", "Ajax", "Spring Boot", "MyBatis", "Oracle", "NodeJS"]
     }
   ],
 
