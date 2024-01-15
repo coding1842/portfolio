@@ -5,7 +5,7 @@ export interface InformationProps {
   imgSrc?: string;
 }
 
-/*export interface WorkExperienceProps {
+export interface WorkExperienceProps {
   id: number;
   name: string;
   description?: string;
@@ -13,7 +13,7 @@ export interface InformationProps {
   period: string[];
   markdown?: string;
   imgSrc?: string;
-}*/
+}
 
 export interface ProjectProps {
   id: number;
