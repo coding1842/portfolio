@@ -30,7 +30,7 @@
       "id": 0,
       "name": "[하이미디어-JAVA와 AI/RPA/빅데이터를 활용한 E-커머스개발자 양성 취업과정 수료]",
       "period": ["2023. 07", "2024. 01"],
-      "description": "JAVA 프로그래밍(JSP/Spring), JAVASCRIPT, HTML, CSS, SQL, RPA, ANDROID 등"
+      "description": "JAVA 프로그래밍(JSP/Spring), JAVASCRIPT, HTML, CSS, SQL, RPA, ANDROID, PYTHON, RPA, POSTMAN, 결제시스템"
     },
     {
       "id": 1,
@@ -45,7 +45,7 @@
       "id": 0,
       "name": "JAVA와 AI/RPA/빅데이터를 활용한 E-커머스개발자 양성 취업과정",
       "period": ["2023. 07", "2024. 01"],
-      "description": "JAVA 프로그래밍(JSP/Spring), JAVASCRIPT, HTML, CSS, SQL, RPA, ANDROID, PYTHON, RPA, POSTMAN"
+      "description": "JAVA 프로그래밍(JSP/Spring), JAVASCRIPT, HTML, CSS, SQL, RPA, ANDROID, PYTHON, RPA, POSTMAN, 결제시스템"
     }
   ]
 
