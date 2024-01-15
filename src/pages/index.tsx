@@ -12,14 +12,14 @@ import Layout from "@/components/Layout";
 import Project from "@/components/Project";
 import ResumeTitle from "@/components/ResumeTitle";
 // import ScrollProgress from "@/components/ScrollProgress";
-import WorkExperience from "@/components/WorkExperience";
+//import WorkExperience from "@/components/WorkExperience";
 import { DataProps, InformationProps, ProjectProps, WorkExperienceProps } from "@/types";
 import Award from "@/components/Award";
 
 const Home: NextPage<DataProps> = ({
   resumeTitle,
   information,
-  workExperience,
+  //workExperience,
   project,
   activity,
   education,
@@ -56,14 +56,14 @@ export const getStaticProps = async () => {
     item: await getMd({ section: "information", item: { ...objectData.information } }),
   });
 
-  const workExperienceWithData = objectData.workExperience.map(
+ /* const workExperienceWithData = objectData.workExperience.map(
     async (item: WorkExperienceProps) => {
       return getImgSrc({
         section: "workExperience",
         item: await getMd({ section: "workExperience", item }),
       });
     },
-  );
+  );*/
 
   const projectWithData = objectData.project.map(async (item: ProjectProps) => {
     return getImgSrc({ section: "project", item: await getMd({ section: "project", item }) });
