@@ -19,7 +19,7 @@ import Award from "@/components/Award";
 const Home: NextPage<DataProps> = ({
   resumeTitle,
   information,
-  workExperience,
+  //workExperience,
   project,
   activity,
   education,
